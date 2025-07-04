@@ -1,0 +1,11 @@
+.flex-container {
+    display: flex;
+    background-color: blue;
+}
+.flex-item {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid darkblue;
+    flex-grow: 1;
+}
